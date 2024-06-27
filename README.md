@@ -48,8 +48,10 @@ Below is a list of companies using Angular, along with their tech stacks and car
 - **Career Site**: https://careers.roche.com/global/en/india-jobs
 - **Work Mode**: On-Site/Hybrid
 
-
-
+###  **Vis Networks**
+- **Tech Stacks**:Angular,TypeScript,React
+- **Career Sites**: https://visnet.in/careers
+- **Work Mode**: On-Site
 
 
 
